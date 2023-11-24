@@ -1,6 +1,10 @@
 
 *.bin
 *.v2
-API/EgZoomApi/.vs/EgZoomApi/v17/.suo
 *.vsidx
 *.config
+API/EgZoomApi/bin
+API/EgZoomApi/obj
+API/EgZoomApi/.vs
+*.suo
+*.cache
